@@ -2,3 +2,7 @@ fastapi
 uvicorn
 ollama
 pydantic
+python-multipart
+pypdf
+requests
+beautifulsoup4
